@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Letter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>To My Beloved Wife</h1>
+        <div class="letter">
+            <p>My Dearest [zineb],</p>
+            <p>I wanted to take a moment to tell you how much you mean to me. You are the light of my life, the person who makes my heart sing, and the one I want to spend every moment with. Your love is the most precious gift I have ever received.</p>
+            <p>Your smile brightens my darkest days, and your touch brings me comfort like nothing else. I am so grateful for every moment we share together, and I look forward to many more years of happiness and love with you.</p>
+            <p>With all my love,</p>
+            <p>[Your lover cherif]</p>
+        </div>
+        <div class="flowers">
+            <img src="red-flowers.png" alt="Red Flowers">
+        </div>
+    </div>
+</body>
+</html>
